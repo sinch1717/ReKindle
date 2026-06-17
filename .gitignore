@@ -4,3 +4,4 @@ node_modules
 venv/
 rekindle.zip
 /package-lock.json
+/dist
